@@ -9,4 +9,3 @@ Smart Contract Audit Reports
 
 [CryptoGPT Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10949188/CryptoGPT.Audit.Report.pdf)
 
-[MaticToken Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10959723/MaticToken.Audit.Report.pdf)
