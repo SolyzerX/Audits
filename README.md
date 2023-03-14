@@ -10,3 +10,5 @@ Smart Contract Audit Reports
 [CryptoGPT Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10949188/CryptoGPT.Audit.Report.pdf)
 
 [MaticToken Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10964065/MaticToken.Audit.Report.pdf)
+
+[Shiba Inu Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10965236/Shiba.Inu.Audit.Report.pdf)
