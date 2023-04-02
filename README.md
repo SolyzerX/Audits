@@ -14,3 +14,5 @@ Smart Contract Audit Reports
 [Shiba Inu Audit Report.pdf](https://github.com/SolyzerX/Audits/files/10965236/Shiba.Inu.Audit.Report.pdf)
 
 [SHIBONK Audit Report.pdf](https://github.com/SolyzerX/Audits/files/11047625/SHIBONK.Audit.Report.pdf)
+
+[WREI Audit Report.pdf](https://github.com/SolyzerX/Audits/files/11131658/WREI.Audit.Report.pdf)
